@@ -5,6 +5,7 @@
 ## TypeScript
 
 - Testing with jest in TypeScript: https://itnext.io/testing-with-jest-in-typescript-cc1cd0095421
+- TypeScript + Webpack: https://youtube.com/playlist?list=PL4cUxeGkcC9hOkGbwzgYFmaxB0WiduYJC
 
 ## Git
 

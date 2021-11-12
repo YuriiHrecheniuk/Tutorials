@@ -20,3 +20,5 @@ module.exports = {
     path: path.resolve(__dirname, 'dist'),
   }
 }
+
+// npm install -D webpack webpack-cli ts-loader

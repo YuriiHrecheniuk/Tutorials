@@ -10,3 +10,7 @@
 ## Git
 
 - Merge detached HEAD back to origin/master: https://cmatskas.com/merge-detached-head-back-to-originmaster-git/
+
+## Data structures
+
+- freeCodeCamp course: https://www.freecodecamp.org/learn/coding-interview-prep/
